@@ -1,0 +1,10 @@
+# Build outputs
+bin/
+obj/
+
+# VS Code settings
+.vscode/
+
+# User-specific solution/IDE files
+*.user
+*.suo
